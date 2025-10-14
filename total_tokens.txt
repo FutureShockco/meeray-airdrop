@@ -1,1184 +1,1287 @@
-rme: 26 622 561
-hungry-griffin: 11 612 729
-puss.coin: 5 047 410
+rme: 32 155 162
+hungry-griffin: 14 049 777
+puss.coin: 6 175 096
 shy-fox: 4 987 035
-abb-curation: 3 668 452
-justyy: 3 253 001
-oppps: 2 390 659
-happycapital: 2 361 372
-lyh5926: 2 049 309
-jejudomin: 1 730 352
-ini4909: 1 697 794
-cancerdoctor: 1 680 135
-blackeyedm: 1 654 499
-amarbanglablog: 1 626 002
-steemchiller: 1 485 983
-veronicalee: 1 467 533
-steem-agora: 1 458 829
-steem.history: 1 442 304
-japanesemask: 1 426 618
-jgwonkim: 1 287 054
-jsj1215: 1 286 454
-symbionts: 1 147 806
-greentree: 1 132 370
-photoman: 1 078 870
-italygame: 1 031 218
-xpilar: 941 121
+abb-curation: 4 482 891
+justyy: 3 761 336
+oppps: 2 808 793
+happycapital: 2 702 464
+lyh5926: 2 350 431
+blackeyedm: 1 994 668
+jejudomin: 1 985 564
+ini4909: 1 960 840
+cancerdoctor: 1 924 545
+amarbanglablog: 1 873 373
+steem.history: 1 750 675
+steemchiller: 1 713 904
+veronicalee: 1 686 957
+steem-agora: 1 676 388
+jgwonkim: 1 594 163
+japanesemask: 1 579 335
+jsj1215: 1 473 941
+symbionts: 1 346 438
+greentree: 1 299 833
+photoman: 1 240 600
+italygame: 1 195 369
+xpilar: 1 081 301
+tron-fan-club: 982 118
+seraphim502: 975 574
+ctime: 879 011
 cryptopie: 869 048
-tron-fan-club: 850 695
-seraphim502: 849 994
-ctime: 767 498
-mmmmkkkk311: 750 586
-rima11: 726 574
-centering: 717 398
-future.witness: 689 474
-avle: 665 022
-dorian-lee: 598 350
-cotina: 591 098
-ojsphy6: 569 930
-kkk5: 532 007
-steemfy.vote: 522 832
-boylikegirl.wit: 506 589
+mmmmkkkk311: 859 780
+rima11: 832 586
+centering: 823 412
+future.witness: 803 627
+avle: 761 810
+dorian-lee: 691 635
+cotina: 682 819
+ojsphy6: 653 084
+kkk5: 611 711
+steemfy.vote: 599 317
+boylikegirl.wit: 577 429
+oldstone: 536 434
+pennsif: 524 546
+girolamomarotta: 506 181
+carrybee: 500 891
 chriddi: 485 961
-oldstone: 467 927
-pennsif: 454 157
+visionaer3003: 479 102
+moecki: 475 491
+happyworkingmom: 474 037
+abb-school: 465 025
+dlike: 455 012
 hingsten: 442 641
-girolamomarotta: 439 457
+royalmacro: 441 177
+remnant39: 439 572
+hdc: 438 840
+faisalamin: 420 751
 bippe: 416 596
-visionaer3003: 416 419
-happyworkingmom: 411 120
-carrybee: 410 316
-moecki: 403 003
-abb-school: 402 729
-dlike: 391 400
-royalmacro: 383 519
-remnant39: 382 948
-hdc: 382 601
-faisalamin: 362 270
-yasu: 354 051
-leemikyung: 314 117
-etainclub: 294 786
+yasu: 405 934
+leemikyung: 361 617
+etainclub: 337 261
+kryptodenno: 294 565
+michelangelo3: 284 444
+thevpnboss: 278 864
+classicalondon: 274 782
 the-gorilla: 270 993
-kryptodenno: 256 392
+jswit: 269 780
+gogikr: 258 662
 pennsif.witness: 255 804
-michelangelo3: 247 259
-thevpnboss: 242 188
-classicalondon: 239 757
-jswit: 232 480
-gogikr: 222 875
-stimp1024: 217 383
-mikitaly: 210 084
-nainaztengra: 198 974
-moh.arif: 195 047
-xpilar.witness: 193 059
-cmp2020-pb: 179 851
-jjj1: 173 359
-dhaka.witness: 171 825
-abb-fun: 168 080
+stimp1024: 249 106
+mikitaly: 241 309
+nainaztengra: 228 581
+moh.arif: 225 298
+xpilar.witness: 224 453
+cmp2020-pb: 206 092
+dhaka.witness: 200 769
+amniotics: 199 538
+jjj1: 199 345
+abb-fun: 195 793
+hodolbak: 194 996
+rex-sumon: 189 150
+curators: 183 809
+cheva: 182 907
+redcross21: 175 210
+stmpak.wit: 168 040
 okalok: 167 759
-cheva: 159 618
-curators: 159 589
-amniotics: 158 797
-hodolbak: 156 971
-rex-sumon: 153 821
-redcross21: 151 847
-tomoyan: 145 290
-jamislee: 141 060
-steemit-market: 139 284
-giuatt07: 136 906
-stmpak.wit: 136 844
-abb-featured: 135 642
-realrobinhood: 130 966
-starlord28: 128 813
-exnihilo.witness: 126 941
-frafiomatale: 125 465
-boc-reports: 122 064
-hive-180821: 118 598
-lifetrail: 118 556
-tfc-reports: 118 288
+jamislee: 162 251
+steemit-market: 161 297
+tomoyan: 160 662
+abb-featured: 158 552
+realrobinhood: 148 630
+starlord28: 146 957
+exnihilo.witness: 146 870
+frafiomatale: 145 059
+lifetrail: 143 333
+boc-reports: 142 691
+giuatt07: 138 990
+tfc-reports: 138 175
+hive-180821: 138 105
+hafizullah: 135 955
+alejos7ven: 135 658
+sa-reports: 134 543
+h4lab: 134 509
+cub1: 133 396
+campingclub: 133 146
+kingporos: 131 085
+nusuranur: 129 427
+tenki: 128 760
+abbc-reports: 126 291
+hotspotitaly: 123 772
+choseal-leo: 120 482
 nevlu123: 116 923
-alejos7ven: 116 581
-h4lab: 116 332
-cub1: 115 376
-sa-reports: 114 702
-campingclub: 113 777
-tenki: 109 605
-hafizullah: 108 588
-abbc-reports: 107 914
-hotspotitaly: 107 481
-kingporos: 106 740
-nusuranur: 105 368
-choseal-leo: 103 292
-liuzg: 98 833
-maarnio: 98 669
+tangera: 116 684
+maarnio: 113 619
+alsarzilsiam: 111 296
+vickyli: 109 714
+hykwf678233: 109 414
+yasu.witness: 108 135
+shuvo35: 103 954
+winkles: 102 039
+liuzg: 98 905
 marilenak: 96 806
-tangera: 95 167
-vickyli: 94 259
-yasu.witness: 93 361
-hykwf678233: 92 840
-alsarzilsiam: 89 892
+circlebubble: 96 101
+iamrekha: 95 293
+germansailor: 93 161
+puncakbukit: 92 620
+tramb: 91 355
+worldofxpilar: 90 998
 lirvic: 89 359
-shuvo35: 84 978
-winkles: 83 125
-circlebubble: 82 812
-puncakbukit: 80 432
-germansailor: 80 299
-worldofxpilar: 78 970
-tramb: 77 524
-iamrekha: 75 504
-steemflower: 74 552
-remlaps-pb: 73 061
-bigpower: 71 572
-kkulih: 68 148
-ilnegro: 67 959
-abundancelife: 67 367
-un-stoppable: 67 327
-o1eh: 66 478
-dr-frankenstein: 65 317
-pundex: 64 659
-darklights: 63 315
-lovequeen: 63 109
-ilovemylife: 62 531
-abuse-watcher: 61 094
-raintears: 60 429
-huangzuomin: 59 930
-joviansummer: 59 692
+steemflower: 85 872
+remlaps-pb: 84 336
+ilnegro: 80 759
+bigpower: 79 891
+kkulih: 78 110
+abundancelife: 77 468
+un-stoppable: 77 311
+dr-frankenstein: 74 971
+pundex: 73 312
+darklights: 72 760
+lovequeen: 72 476
+abuse-watcher: 70 744
+o1eh: 69 985
+sagor1233: 69 747
+joviansummer: 69 638
+raintears: 69 519
+huangzuomin: 68 745
+steemit-family: 68 624
+kafio: 68 064
+beoped: 66 294
+ritzy-writer: 65 017
+wakeupkitty: 64 760
+mohinahmed: 64 596
+elainlee: 64 400
+cmp2020: 63 787
+heartwarming: 63 781
+ocean-trench: 63 441
+steem-articles: 62 930
+ilovemylife: 62 648
+thinking.element: 60 435
+lucky2015: 60 020
+curious.mind: 59 742
 rayhan111: 59 405
-steemit-family: 59 321
 fombae: 59 120
-lucky2015: 58 515
-beoped: 57 757
+stefano.massari: 58 782
+liumei: 58 532
 hive-181136: 57 743
-sagor1233: 57 737
-ritzy-writer: 56 628
 bristy1: 56 426
-kafio: 56 418
-heartwarming: 55 556
-cmp2020: 55 423
+engrsayful: 55 747
 boylikegirl: 55 349
-ocean-trench: 55 274
-steem-articles: 55 059
-wakeupkitty: 54 718
-elainlee: 54 437
-thinking.element: 52 943
-mohinahmed: 52 891
-curious.mind: 52 382
+yafi: 52 757
+suntr: 52 549
 mohammadfaisal: 52 308
-stefano.massari: 51 161
-liumei: 50 751
-suntr: 49 402
-yafi: 48 397
+shuvobd1: 51 388
+yuyusong: 51 031
+mpu.gandring: 50 717
+deutschunplugged: 50 185
+indextrader24: 49 995
+arsalaan: 47 252
+lotusofmymom: 47 042
 tasonya: 46 655
-artist1111: 45 741
-engrsayful: 45 442
-shuvobd1: 44 698
-yuyusong: 44 437
-mpu.gandring: 44 004
-deutschunplugged: 43 691
-indextrader24: 43 394
-lotusofmymom: 41 052
-marpa: 40 380
-aboutcoolscience: 40 280
-susanli3769: 40 237
-arsalaan: 39 897
-remlaps1: 38 183
-mahfuzur888: 38 059
-robytrix: 36 597
-labib2000: 36 348
-zoltarian: 35 884
-event-horizon: 35 039
-timbae: 34 748
-leejintaek: 34 538
-pathanapsana: 34 033
+aboutcoolscience: 46 241
+susanli3769: 46 222
+marpa: 46 153
+artist1111: 46 029
+labib2000: 44 159
+remlaps1: 43 782
+robytrix: 42 133
+leejintaek: 41 649
+zoltarian: 41 323
+bagholders: 41 271
+event-horizon: 40 338
+timbae: 39 963
+pathanapsana: 39 197
+nuagnorab: 38 423
+mahfuzur888: 38 133
+tb420292: 38 049
+abduhawab: 37 952
+h4lab.witness: 37 453
+penny4thoughts: 36 759
+bot-api: 36 074
+kk7: 35 966
+remlaps: 35 949
+mariam.dariam: 35 939
+remlaps-lite: 35 568
+mint1: 35 441
+kk2: 35 362
+andylein: 34 819
+aaronli: 34 612
 time.foundation: 33 975
-nuagnorab: 33 502
-tb420292: 33 073
+diochen: 33 887
 bijoy1: 33 001
-bagholders: 32 947
-abduhawab: 32 690
-h4lab.witness: 32 402
-penny4thoughts: 32 120
-kk7: 31 250
-aaronli: 31 191
-mariam.dariam: 31 110
-remlaps: 31 055
-remlaps-lite: 30 899
-mint1: 30 819
-kk2: 30 753
-bot-api: 30 549
-andylein: 30 302
-janasilver: 28 529
-moeenali: 28 496
-diochen: 28 327
+janasilver: 32 868
+moeenali: 32 662
+ripon40: 32 134
+tania69: 31 870
+joslud: 31 798
+afrog: 31 556
+selinasathi1: 31 171
+angelina6688: 30 464
+lindoro: 29 814
+osomar: 29 474
+jini-zzang: 29 435
+ladymisa: 29 413
+wahidasuma: 29 343
+sardrt: 29 114
+ronggin: 29 097
+green015: 29 023
+steem-seven: 28 649
 wox-helpfund: 28 243
-afrog: 27 538
-joslud: 27 289
+tauhida: 28 060
+mohamad786: 27 646
+dorian-dev: 27 481
+jianan: 27 454
 avle-market: 26 733
 fasoniya: 26 656
-sardrt: 26 610
-tania69: 26 406
-angelina6688: 26 403
-ripon40: 26 242
+marygong77777: 26 615
+veigo: 26 329
 katherine012: 26 212
+limon88: 26 009
 bdwomen: 25 768
+rijalaronaceh: 25 681
+sariana23: 25 540
 sadia7: 25 533
-selinasathi1: 25 500
-lindoro: 24 984
-osomar: 24 702
-ladymisa: 24 646
+wakeupkitty.pal: 25 429
+vaibhavshah: 24 849
+don-t: 24 750
+yameen: 24 716
 narocky71: 24 331
-wahidasuma: 24 317
-ronggin: 24 009
-jianan: 23 816
-green015: 23 696
+kazi-raihan: 23 775
+lightcaptured: 23 444
 ah-agim: 23 307
-jini-zzang: 23 269
-tauhida: 23 254
-marygong77777: 23 209
-limon88: 22 926
+ulfatulrahmah: 23 000
 okere-blessing: 22 842
-steem-seven: 22 564
+bluesky81: 22 793
 kibreay001: 22 536
-mohamad786: 22 486
-rijalaronaceh: 22 400
-ulfatulrahmah: 22 284
+bonaventure24: 22 331
+myyolo: 22 330
 miftahulrizky: 22 167
-veigo: 21 818
-dorian-dev: 21 808
-sariana23: 21 660
-vaibhavshah: 21 642
-yameen: 21 580
-don-t: 21 456
+zory23: 21 982
+hiziny: 21 978
+depend: 21 709
+honoru: 21 361
 flowie: 21 209
-wakeupkitty.pal: 20 947
-lightcaptured: 20 261
+shimulakter: 21 009
+roadofrich: 20 813
+logen99: 20 047
 memamun: 19 923
-bluesky81: 19 879
+seven.wit: 19 863
 mile16: 19 735
-myyolo: 19 469
-bonaventure24: 19 431
 jamal7: 19 323
-hiziny: 19 179
-roadofrich: 19 094
-depend: 18 998
-zory23: 18 867
-kazi-raihan: 18 855
+paintmage: 19 285
+iamafra: 18 877
 supportive: 18 674
-honoru: 18 641
+xaviduran: 18 426
 boishakhi123: 18 405
-gravedigger: 18 267
+mad-runner: 18 402
+gravedigger: 18 271
 afzalqamar: 18 010
+elmetro: 17 866
+josephwave643: 17 652
+yenny47: 17 447
 isratmim: 17 214
-shimulakter: 17 123
-paintmage: 16 829
-iamafra: 16 458
-xaviduran: 16 071
-yenny47: 15 999
-seven.wit: 15 861
-mad-runner: 15 858
-elmetro: 15 573
-josephwave643: 15 404
-logen99: 15 310
-johnboywalton: 14 735
-offgridlife: 14 685
-adrianagl: 14 515
+adrianagl: 17 017
+johnboywalton: 16 951
+kafio.wit: 16 922
+offgridlife: 16 902
+gungho: 16 302
+magnetar0: 15 510
+idayrus: 15 414
+enamul17: 15 012
 voteblast: 14 469
-gungho: 14 201
-magnetar0: 13 535
-enamul17: 13 514
-idayrus: 13 419
+winniex: 13 205
 uzma4882: 13 200
+dequeen: 12 912
+freed99: 12 609
+atego: 12 592
+missquibble: 12 570
+pea07: 12 527
+hive-109690: 12 487
+insun64: 12 259
 solperez: 12 124
-winniex: 11 524
-zengchihang: 11 430
-hive-109690: 11 246
-atego: 10 988
+solaiman: 12 099
+h4lab.event: 12 043
+kenny-crane: 11 974
+emon42: 11 782
+zengchihang: 11 454
+ecosynthesizer: 11 430
+lnakuma: 11 364
+hive-169911: 11 334
+elikast: 11 257
+ifatniza: 11 038
 trxgiver: 10 958
 mostafezur001: 10 870
-ifatniza: 10 842
-insun64: 10 697
+radleking: 10 705
 nhriyad: 10 653
-solaiman: 10 558
-h4lab.event: 10 375
-helipad: 9 966
-lnakuma: 9 897
-dequeen: 9 882
+pygmalion34: 10 585
+echoverse: 10 507
+chan1: 10 413
+akmalshakir: 10 393
+afkar86: 10 356
+thimalteb: 10 314
+djkimjun: 10 292
+global-steem: 10 104
+parul19: 10 079
+oisheee: 10 015
+helipad: 9 974
 jueco: 9 875
-elikast: 9 823
-kafio.wit: 9 619
-futureshock: 9 615
-emon42: 9 536
-kenny-crane: 9 502
-echoverse: 9 437
-pea07: 9 399
-hive-169911: 9 338
-ecosynthesizer: 9 280
-pygmalion34: 9 230
-jesusnunez: 9 163
-chan1: 9 047
-afkar86: 9 036
-thimalteb: 9 001
-djkimjun: 8 981
+futureshock: 9 826
+globetrottergcc: 9 546
+luimer79: 9 494
+emmali: 9 458
+ety001: 9 341
+jesusnunez: 9 236
+krcurator03: 9 100
+haideremtiaz: 9 071
+iris08: 8 972
+drugwars: 8 870
+badmus-official: 8 843
+selina75: 8 786
 praneeth123: 8 783
-radleking: 8 783
+monira999: 8 684
 hindwhale: 8 569
-luimer79: 8 501
-oisheee: 8 300
-global-steem: 8 282
-emmali: 8 241
-parul19: 8 122
-akmalshakir: 8 121
-selina75: 7 991
-krcurator03: 7 903
-freed99: 7 898
-missquibble: 7 888
-iris08: 7 830
+georgemales: 8 517
+stepbie: 8 249
+steem-retrogames: 8 216
+polash123: 8 186
+kkk1: 8 157
+ericaliu: 7 822
 reno10: 7 802
-badmus-official: 7 585
-haideremtiaz: 7 449
+blaze.apps: 7 622
+cicisaja: 7 594
+naty16: 7 500
 a-lass-wonders: 7 344
-stepbie: 7 199
+nazmul01: 7 343
+zelenicic: 7 265
+fatema001: 7 256
+flysky: 7 213
+mooneity: 7 208
+penyaircyber: 7 155
 geeox: 7 110
-zozolion: 7 107
+zozolion: 7 108
 vius: 7 104
 bilrost: 7 096
 baseus: 7 093
 sdkmom: 7 093
-soundcore: 7 092
 eurokr: 7 092
+soundcore: 7 092
 suinetwork: 7 089
 rafayelen: 7 088
-qajuan: 7 087
 giftoco: 7 087
-kkk1: 7 083
-georgemales: 7 061
-globetrottergcc: 7 008
-monira999: 6 914
-ericaliu: 6 825
-steem-retrogames: 6 673
+qajuan: 7 087
+crisvera: 7 006
+xiao-aine: 6 948
+dasomee: 6 749
 alfazmalek: 6 652
-cicisaja: 6 627
 hive-199903: 6 614
-crisvera: 6 542
-naty16: 6 533
-polash123: 6 514
-fatema001: 6 456
-nazmul01: 6 335
-drugwars: 6 316
-zelenicic: 6 311
-flysky: 6 295
-mooneity: 6 290
+bible6408: 6 439
 sriiza: 6 286
-penyaircyber: 6 244
-xiaobao: 5 944
-migue14: 5 900
+migue14: 6 281
+waqarahmadshah: 6 219
+daydayup: 6 074
+pedrobrito2004: 6 008
+xiaobao: 5 952
+gsiscolors: 5 902
 wmx: 5 896
-dasomee: 5 890
-xiao-aine: 5 871
-waqarahmadshah: 5 680
-bible6408: 5 619
-spiritbird: 5 419
+youandme: 5 722
+aarauz15: 5 631
+spiritbird: 5 425
 jannat7: 5 411
+nuraira: 5 398
 celapson: 5 385
 doxchen: 5 384
 rmbhints: 5 352
+cub2: 5 316
 alfonsol: 5 310
-daydayup: 5 301
-gsiscolors: 5 143
-pedrobrito2004: 5 108
+cryptovisitor: 5 276
 lzg: 5 102
 mhmaruf: 5 074
-hiramoni: 5 046
-youandme: 4 972
+hiramoni: 5 048
 hive-183369: 4 938
 adi.pisces: 4 929
-aarauz15: 4 896
-ti-taher: 4 882
+ti-taher: 4 888
+ericandryan: 4 749
 vishwara: 4 706
-mrspointm: 4 629
+lillii: 4 660
+yolyve: 4 648
+mrspointm: 4 637
+by-aranza: 4 625
 elagusella: 4 622
-cub2: 4 580
+bdhero: 4 606
+zmx: 4 592
+solarisastro: 4 582
 megaaulia: 4 570
 spoke: 4 517
+sog332: 4 503
 passage: 4 486
 dewirusli: 4 470
-section-2: 4 372
+krcurator01: 4 428
+syalla: 4 427
+section-2: 4 404
+ayaan001: 4 391
+shyamshundor: 4 372
+krcurator02: 4 326
 p3d1: 4 289
 tabichain: 4 263
-enduranc: 4 260
 centrium: 4 260
 inexit: 4 260
 myseoul: 4 260
+enduranc: 4 260
+riyadx2: 4 252
 turbo4: 4 235
 nazarul: 4 229
+alicargofer: 4 225
 artburn: 4 223
-lkt0520: 4 213
+lkt0520: 4 215
 vegetates: 4 206
 winelove: 4 206
 unicycle: 4 205
 suzumei: 4 203
-shyamshundor: 4 162
 pecintabunga20: 4 161
-by-aranza: 4 024
-zmx: 3 991
-section-1: 3 988
-solarisastro: 3 978
-yolyve: 3 952
-ericandryan: 3 941
-sog332: 3 928
-cryptovisitor: 3 928
-nuraira: 3 926
+kanzia: 4 140
+mojociocio: 4 133
+kazgandirgan: 4 046
+section-1: 4 016
+hive-152479: 4 014
+muslinasofyan: 3 940
+payelb: 3 936
+steem-fanbase: 3 914
 samhunnahar: 3 913
-devilsdad: 3 893
-syalla: 3 863
-krcurator01: 3 831
-bdhero: 3 817
+alvin0617: 3 897
+devilsdad: 3 895
+cnghy: 3 856
+everlandd: 3 856
+shadow-the-witch: 3 843
+cloudiar: 3 825
 hamzayousafzai: 3 802
+avibauza: 3 800
 candra8692: 3 793
 emranhasan: 3 764
-krcurator02: 3 744
-mojociocio: 3 713
-alicargofer: 3 674
-ayaan001: 3 650
+jerin-tasnim: 3 732
+kausikchak123: 3 687
+neelamsamanta: 3 657
 ahp93: 3 649
+yum2: 3 643
+sebasni04: 3 641
+dianadee: 3 628
 nuraini1975: 3 616
-kanzia: 3 613
-neelamsamanta: 3 561
-repampanos: 3 555
-kazgandirgan: 3 523
-mrpointp: 3 506
-kausikchak123: 3 481
-muslinasofyan: 3 438
+repampanos: 3 579
+bristychaki: 3 541
+wakucat: 3 540
+alif111: 3 516
+mrpointp: 3 508
+afrinn: 3 485
+elpastor: 3 435
 ride1: 3 414
-steem-fanbase: 3 406
-alvin0617: 3 401
-hive-152479: 3 385
-everlandd: 3 365
-cnghy: 3 360
-riyadx2: 3 344
-cloudiar: 3 338
-avibauza: 3 313
-payelb: 3 262
+menerva: 3 358
+bimanakhan: 3 344
+sarahraudhah: 3 321
+shabiha-jahan: 3 304
+heaven.pool: 3 265
+jasonmunapasee: 3 240
 inudi: 3 230
-saikat01: 3 216
-afrinn: 3 210
-bimanakhan: 3 192
-shadow-the-witch: 3 185
-yum2: 3 179
-dianadee: 3 166
-mesola: 3 123
-jerin-tasnim: 3 093
+saikat01: 3 222
+life-steem: 3 211
+mesola: 3 161
+tutiaryati: 3 124
+malikusman1: 3 089
 saimunsp: 3 072
-sebasni04: 3 035
-jasonmunapasee: 3 010
-life-steem: 2 952
-elpastor: 2 952
-menerva: 2 930
-bristychaki: 2 905
-sarahraudhah: 2 896
-heaven.pool: 2 849
-blaze.apps: 2 793
-alif111: 2 726
-tutiaryati: 2 726
-malikusman1: 2 696
+yoelmo26: 3 060
+mostofajaman: 3 024
+blackrance: 2 887
+rosmarycar91: 2 842
+gustavomory2: 2 792
+s-alvarez: 2 785
+alimkhan: 2 767
+shield-it: 2 735
+denver23: 2 713
+steempromoution: 2 704
+enchanter88: 2 704
+el-nailul: 2 704
+laplanss2020: 2 651
 communityaction: 2 637
 muhammad-ahmad: 2 604
-el-nailul: 2 603
-yoelmo26: 2 575
-wakucat: 2 532
-alimkhan: 2 530
-shabiha-jahan: 2 519
+tarajda: 2 599
+johir65: 2 565
+sammo10: 2 543
+remlaps2: 2 522
 fajrularifst: 2 517
-rosmarycar91: 2 476
-denver23: 2 454
+happyukgo: 2 494
+targut09: 2 483
+arman-alif: 2 472
+exanime15: 2 466
+do-orr-die: 2 464
 ahumadaliliana29: 2 444
-gustavomory2: 2 436
-tarajda: 2 396
-sammo10: 2 374
-shield-it: 2 365
-enchanter88: 2 359
-steempromoution: 2 347
-blackrance: 2 341
-s-alvarez: 2 340
-laplanss2020: 2 313
-mostofajaman: 2 242
-acactus1013: 2 234
-targut09: 2 203
-moon21: 2 200
-tithyrani: 2 170
-remlaps2: 2 165
-happyukgo: 2 162
-exanime15: 2 152
-arman-alif: 2 151
-johir65: 2 116
-splinterx: 2 075
-mato445: 2 044
-cryptocurrencyhk: 2 044
-do-orr-die: 2 042
-ozgurcinarli: 1 960
+sanaullah99: 2 434
+moon21: 2 403
+cryptocurrencyhk: 2 342
+yovagarcia: 2 314
+acactus1013: 2 251
+ozgurcinarli: 2 250
+mato445: 2 237
+muhammadrasya: 2 230
+boc-contests: 2 205
+splinterx: 2 195
+dhavid.btc: 2 192
+alwaysgrateful: 2 191
+malenagarcia: 2 182
+tolgahanuzun: 2 172
+tithyrani: 2 172
+ntyprince: 2 144
+junaidahmed: 2 121
+esecholo: 2 102
+shopon700: 2 091
+ertugrull: 2 087
+gernfried2000: 2 076
+elosolezama: 2 037
+shahid540: 2 035
+neyistar23: 2 026
+lisa.palmer: 2 026
+kennybot: 2 011
+handsomecho: 2 004
+garagebill: 1 970
+hive-120695: 1 958
+cryptocariad: 1 955
+snapsage: 1 935
 sucimelati: 1 920
-alwaysgrateful: 1 910
-malenagarcia: 1 903
-tolgahanuzun: 1 895
-yovagarcia: 1 892
-ertugrull: 1 861
-esecholo: 1 828
-muhammadrasya: 1 828
-gernfried2000: 1 811
-zulma2021: 1 786
-elosolezama: 1 775
-lisa.palmer: 1 760
-sanaullah99: 1 755
-saravanan-n: 1 746
-dhavid.btc: 1 738
-ntyprince: 1 714
+nsijoro: 1 859
+pioneerjeff: 1 839
+thoth.test: 1 838
+zulma2021: 1 824
+steemwatcher.com: 1 812
+textile: 1 803
+pixelmit: 1 801
+mia-cc: 1 801
+samima1: 1 798
+ccscurator: 1 797
+nerdtopiade: 1 787
+lucienyong: 1 769
+saravanan-n: 1 748
+kangna: 1 725
+bisdako: 1 711
 zamilgd: 1 710
-cryptocariad: 1 706
-shahid540: 1 682
-tanveer741: 1 676
-geminis56: 1 666
-neyistar23: 1 635
-handsomecho: 1 609
-kennybot: 1 597
-boc-contests: 1 592
-snapsage: 1 578
-shopon700: 1 572
-mia-cc: 1 572
+geminis56: 1 679
+tanveer741: 1 679
+oksanavidma: 1 642
+massivevibration: 1 636
+arisyah: 1 626
+antoniob: 1 589
+wo5: 1 586
 nftkal: 1 569
-hive-120695: 1 569
-nsijoro: 1 564
-garagebill: 1 564
-edu-chemist: 1 547
-lucienyong: 1 544
-nerdtopiade: 1 544
+whalesreport: 1 552
+edu-chemist: 1 551
+rituamin: 1 541
 razuan12: 1 535
-samima1: 1 534
-pioneerjeff: 1 514
-textile: 1 494
-kangna: 1 476
-ccscurator: 1 465
-junaidahmed: 1 458
-firdaus01: 1 446
-massivevibration: 1 428
-pixelmit: 1 428
-arisyah: 1 413
-antoniob: 1 387
-wo5: 1 384
+marlys13: 1 528
+avishek93: 1 520
+roland222: 1 493
+imohmitch: 1 483
+my451r: 1 471
+ajegena: 1 470
+firdaus01: 1 452
+joychi102: 1 450
+buo: 1 423
+the-gorillla: 1 418
+olivia08: 1 393
 pahlevy01: 1 367
-bisdako: 1 347
-roland222: 1 331
-avishek93: 1 326
-oksanavidma: 1 304
+rh22: 1 360
+fabiha: 1 306
 sabirnaz: 1 292
 egyptsia: 1 285
-steemwatcher.com: 1 283
-rituamin: 1 277
-the-gorillla: 1 251
+sari82: 1 282
+comiccat: 1 272
+simransumon: 1 270
+sevenusdchain: 1 270
 befood: 1 248
-oddly: 1 248
 sugarlife: 1 248
+oddly: 1 248
 m-princess: 1 245
-ajegena: 1 244
-buo: 1 242
-my451r: 1 237
+nazila04: 1 243
+hive-166850: 1 237
 foodmedia: 1 236
 resonator: 1 235
-marlys13: 1 206
-rh22: 1 187
+classical-music: 1 224
 davidmuhammad: 1 186
-thoth.test: 1 141
-joychi102: 1 127
-sari82: 1 119
-whalesreport: 1 117
+cryptokannon: 1 184
+roy.saikat: 1 163
+gracewealth01: 1 147
+srshelly0399: 1 139
+usay: 1 124
+muqatil: 1 111
 rk-steemit: 1 110
-sevenusdchain: 1 108
-comiccat: 1 107
-fabiha: 1 106
 fadia: 1 101
 ichsan41: 1 098
 ami.pasee: 1 089
-nazila04: 1 085
-imohmitch: 1 082
-simransumon: 1 076
-biplob89: 1 073
-classical-music: 1 068
+nangel: 1 084
+biplob89: 1 075
+wyp: 1 074
+jackies02: 1 071
+helal-uddin: 1 057
 rindex: 1 046
 mfund: 1 046
-cryptokannon: 1 033
-roy.saikat: 1 015
+unbiasedwriter: 1 020
+yikoutian: 1 020
+section-0: 1 018
+damurq: 1 013
+rifat3: 1 009
+keepup2018: 1 008
 chain-stats: 998
-section-0: 946
-nangel: 946
-wyp: 935
-bcgstrahm: 927
-olivia08: 927
-hive-166850: 917
-helal-uddin: 896
-yikoutian: 890
-unbiasedwriter: 889
-damurq: 884
-keepup2018: 880
-rifat3: 880
-denismyt: 871
-samin1: 870
+lovelingling: 997
+bcgstrahm: 992
+zaimiri: 985
+naimudeen: 983
+dboard: 976
+denismyt: 972
+rubenhai: 968
+moroang: 967
+vakda: 952
+hopewilliams04: 951
+kirstin: 951
+visionaerfund: 942
+dipoabasch: 930
+ediumoh: 915
+samin1: 874
+barmbo: 872
 moyeon: 868
 radhi622: 863
-srshelly0399: 856
-dboard: 852
-muqatil: 841
-kirstin: 830
-visionaerfund: 822
-gracewealth01: 822
-dipoabasch: 812
+don-thomas: 837
+kan80: 834
+jannatakter24: 831
+bokhtiar1444: 821
 tinker-bell: 807
-jackies02: 803
-lovelingling: 786
-rubenhai: 767
-barmbo: 761
+awesononso: 799
+syllem: 792
+stevographix: 786
+goodgift52: 761
 yousha4: 757
+bendelta28: 756
+mermaidvampire: 755
+ljyxxzj: 751
 asicboy: 751
 shahidalinaz: 749
-naimudeen: 742
-zaimiri: 737
-kan80: 728
-don-thomas: 725
-bokhtiar1444: 712
-awesononso: 709
-syllem: 690
-mermaidvampire: 659
-ljyxxzj: 655
-geegirl: 640
-winwithsteemit: 639
-drugwars-dealer: 637
-little-yellow: 633
+winwithsteemit: 735
+geegirl: 735
+nhiemfon001: 727
+mannatnawaz: 726
+little-yellow: 725
+shamiaritu96: 703
+marlyncabrera: 697
+alimtutorial: 696
+hf20test: 694
+doveyan: 691
+berda01: 683
+yunyuzul: 683
+blackblack777: 679
+tinna: 674
+drugwars-dealer: 671
+hktraveler: 669
+otiumoren: 661
+letssittt: 655
+amazonselller: 638
+cittriy: 638
+annu17: 636
 xbd: 629
-shamiaritu96: 612
-stevographix: 611
-marlyncabrera: 608
-hf20test: 605
-hopewilliams04: 604
-doveyan: 603
-yunyuzul: 596
-ediumoh: 595
-tinna: 588
-hktraveler: 584
-berda01: 584
-amazonselller: 557
-cittriy: 557
-letssittt: 543
-jacuzzi: 537
-jannatakter24: 529
-steem-station: 526
+monz122: 628
+nigarjebin: 619
+jacuzzi: 617
+steem-station: 609
+akjoe22: 605
+emilqq: 597
+bo022022: 588
+nurullah96: 588
+cokro: 583
+shabab7: 567
+sqamemal: 566
+sporting-gorilla: 564
+luismasotillo: 554
+cecilia20: 551
+rafi67: 550
+onyiokeke: 547
+anderannahysa: 545
+familyonline-tv: 543
+dekhera: 541
+ssjbjapura: 532
 maytte: 525
-emilqq: 521
-mannatnawaz: 521
-nigarjebin: 513
-alimtutorial: 513
-nhiemfon001: 512
-monz122: 509
-cokro: 509
-luismasotillo: 507
-bendelta28: 499
-sqamemal: 494
-sporting-gorilla: 491
-goodgift52: 489
-cecilia20: 481
-anderannahysa: 475
-familyonline-tv: 474
-rafi67: 474
-dekhera: 472
-shabab7: 470
-ssjbjapura: 464
+kwinberry: 521
+blezisong: 519
+levi-miron: 514
+quiz-master: 502
+benglobal02: 501
+deisip67: 491
+avle-anouncement: 480
+darkeye: 471
+vicvine25: 467
 el-gorila: 460
-quiz-master: 450
-levi-miron: 449
-akjoe22: 446
-deprincedeman: 436
-deisip67: 429
-vicvine25: 425
-kwinberry: 424
-avle-anouncement: 419
-annu17: 417
-luxalok: 406
-otiumoren: 399
-emonv: 394
+jubayer95: 458
+glorystar21: 455
+luxalok: 451
+ais.jarvis: 450
+curator-helper: 445
+beny01: 439
+caro79: 438
+deprincedeman: 438
+dw-glq4f1094544: 437
+wwaitl: 434
+mr-peng: 431
+mercigold: 421
+newusers: 414
+nazomimatute1998: 404
+miniu: 403
+emonv: 396
 bien: 394
-dw-glq4f1094544: 381
-curator-helper: 380
-wwaitl: 379
-ais.jarvis: 373
-caro79: 373
-newusers: 361
-mr-peng: 361
-richard-p: 355
-miniu: 352
-onyiokeke: 347
+shabina1: 391
+andygee: 388
+inmylife: 386
+tinaekanem1234: 376
+b1-3: 376
+harshima10: 367
+minjunjie: 367
+richard-p: 363
+william8wayward: 354
 section-4: 345
-glorystar21: 344
+genealet1: 344
+kevinvaonav: 342
 mdshanto: 342
-nurullah96: 339
-inmylife: 337
-shabina1: 334
-nazomimatute1998: 333
-b1-3: 328
-minjunjie: 320
-saklabah: 319
-william8wayward: 307
-samuelbrilliant: 305
-blackblack777: 303
-benglobal02: 301
-genealet1: 300
-kevinvaonav: 299
-harshima10: 299
+ubayiqbal: 341
+samuelbrilliant: 329
+sanarafiuqe: 327
+panghuhu: 325
+saklabah: 322
+josedavid125: 320
+speem: 317
+tykay019: 317
+freecreative: 312
+ripon009: 311
+iqbal-pasee: 309
+jeromy25: 305
+cheng-cnu: 304
+arism: 303
+neymarghc: 301
+ducato: 300
+arthur-grafo8: 297
+valentinaalvarez: 294
+mahmudul01: 294
 meraki7578: 294
-sanarafiuqe: 285
-blezisong: 285
-panghuhu: 284
-andygee: 282
-muhd.abrar: 281
-mahmudul01: 278
-tykay019: 275
-jeromy25: 273
-freecreative: 272
-josedavid125: 272
-iqbal-pasee: 270
-darkeye: 270
-cheng-cnu: 265
-arism: 264
-tri999: 261
-neymarghc: 261
+julietbella: 289
+arthur.grafo13: 286
+muhd.abrar: 284
+photosnap: 283
+steemnightangle: 272
+deportal: 272
+tri999: 271
+sakeenazaffar: 267
+benson224: 266
+zhengjuan7: 262
 masniaty: 259
-arthur-grafo8: 259
-arthur.grafo13: 250
-alvy04: 249
-photosnap: 245
-valentinaalvarez: 240
-mercigold: 238
+anykon: 252
+alvy04: 251
+irays: 250
+nicely40: 248
+xiefei: 247
+biglotto: 244
+asma-khan: 242
+trevormomo: 241
+mirna-alika: 239
+a0-3: 238
 aellly: 237
-tinaekanem1234: 236
-benson224: 232
-ducato: 232
-zhengjuan7: 229
+soykat71: 231
 gamcantoi23: 227
-beny01: 225
 baiyumo: 224
-irays: 218
-xiefei: 216
-biglotto: 213
-jubayer95: 213
-alejandra22: 212
-julietbella: 211
-trevormomo: 210
-mirna-alika: 209
-a0-3: 208
-deportal: 200
-vane1990: 195
-fishbb: 195
-soykat71: 191
-philipmak: 183
-steemnightangle: 182
-nabilaku: 180
-sakeenazaffar: 179
-logiczombie: 177
-ruth27: 177
-duwikyy: 173
+vane1990: 223
+fishbb: 223
+alejandra22: 223
+glorex: 221
+maryamanwer: 217
+ruth27: 215
+affy: 212
+philipmak: 210
+mayjay: 207
+nabilaku: 206
+maryam86: 204
+logiczombie: 203
+duwikyy: 198
+marleyn: 194
+shayama: 189
+hive-109435: 185
+glastar: 181
+hanif6494: 180
+ahmedyusuf: 180
+myrtle05: 178
+nsibaby: 178
+mawattoo8: 175
+sepulennto: 173
+pinggangbukit: 172
+ssea.miner: 169
 nasri99: 169
-ahmedyusuf: 169
-marleyn: 169
-ripon009: 166
-maryamanwer: 165
+sonyeye: 166
+carrinm: 166
+yellowbird: 165
+holmesian: 163
 aliraza1234: 163
-hive-109435: 161
-glastar: 158
-shayama: 157
-nsibaby: 155
-kerysmora: 153
-mawattoo8: 153
-hanif6494: 152
-sepulennto: 151
-affy: 151
-pinggangbukit: 150
-glorex: 148
-carrinm: 145
-sonyeye: 145
-yellowbird: 144
-ssea.miner: 144
-myrtle05: 143
-holmesian: 142
-asma-khan: 141
-alexandermoreno: 140
-queenesthy: 137
-mylord1992: 137
-sumiya23: 137
-nemerem01: 136
-solute: 136
-eddyt: 135
-nicely40: 135
-ngaraibukit: 133
-mariakareem: 133
-steem-predicts: 133
-lerengbukit: 131
-bukitcantik: 131
-witnesstools: 131
-bukitberbunga: 131
-speem: 130
-crypto-heart: 129
-amnaliaqat512: 128
-jemilatbuhari: 128
-bukitpermai: 126
-rahmadhidayat01: 126
-steem2usdt: 125
-chimda: 124
+sumiya23: 161
+alexandermoreno: 161
+kerysmora: 159
+queenesthy: 157
+mylord1992: 157
+solute: 156
+eddyt: 155
+anny01: 153
+ngaraibukit: 153
+jemilatbuhari: 152
+mariakareem: 152
+steem-predicts: 152
+witnesstools: 150
+lerengbukit: 150
+bukitberbunga: 150
+bukitcantik: 150
+jayreal: 149
+alanvielve: 149
+crypto-heart: 148
+amnaliaqat512: 147
+naturalworld02: 146
+bukitpermai: 144
+rahmadhidayat01: 144
+steem2usdt: 143
+chimda: 142
+plankton.token: 141
+arafat-hasan6: 139
+praizclassic01: 138
+nemerem01: 138
+gopek112: 135
+lembahbukit: 135
+comaru: 134
+elijah247: 134
+helios36: 133
+aye2001: 133
+wilmercristo: 132
+newtech-adopter: 131
+ayesha786: 130
+bukitindah: 128
+burakakdogan: 128
+tenderwise: 127
+mfxqaq: 127
+fatjav88: 127
+arthur.grafo4: 127
+sadek1: 126
+marvii: 125
+ishare: 125
+alberttnom: 123
 mima2606: 123
-plankton.token: 123
-naturalworld02: 121
-anykon: 120
-lembahbukit: 118
-sadek1: 117
-helios36: 116
-aye2001: 116
-elijah247: 116
-arafat-hasan6: 115
-newtech-adopter: 114
-alanvielve: 114
-comaru: 113
-theentertainer: 112
-burakakdogan: 112
-bukitindah: 112
-mfxqaq: 111
-fatjav88: 111
-arthur.grafo4: 111
-ishare: 109
-praizclassic01: 108
-alberttnom: 107
-shukra77: 106
+alexander25: 122
+shukra77: 121
+aqeelkhan422: 119
+anginbukit: 117
+superbing: 116
+asia-digest: 114
+theentertainer: 114
+sofianiskandar: 109
+freshgrace: 108
+joycemarinduque: 106
+gerrynoel: 106
+ahyar92: 106
+turtlegraphics: 106
 leonidabr: 106
-mayjay: 106
-wilmercristo: 105
-aqeelkhan422: 104
-alexander25: 103
-anginbukit: 102
+public-money: 104
+adieandrian: 104
+z-khan29: 103
+tashik121: 103
+bukitbambu: 103
+punggungbukit: 102
+dailychina: 101
+sailei1: 101
 magna25: 101
-superbing: 101
-ayesha786: 96
-adieandrian: 95
-soomer: 95
-sofianiskandar: 95
-maryam86: 95
+bettymiki: 100
+brianphobos: 100
+bukitsejuk: 99
+presh001: 98
+nghsilver: 98
+bhawna1: 97
+kimpascal: 97
+soomer: 97
+rahmadani00: 96
+chiglamour002: 93
+kesybliss: 93
+benigayvinz: 93
+sawahbukit: 93
 riyanur: 93
-ahyar92: 93
-turtlegraphics: 93
-public-money: 91
-gerrynoel: 91
+jxperience: 92
+javirid: 90
+xiaoguai: 90
+ohssing: 90
 uwaisalqa: 90
-bukitbambu: 90
-punggungbukit: 89
+dailystats: 89
+capingbukit: 89
+akwasheila: 88
 spektro223: 88
-dailychina: 88
-sailei1: 88
-nghsilver: 86
-bukitsejuk: 86
-tashik121: 85
+allbert: 87
+flydayhk: 86
+ladangbukit: 86
+fardiani: 85
+bukitcerah: 85
+roy-bos: 85
+bukitpinus: 85
+goodnews2020: 84
+bukithijau: 84
+skywaystelios: 84
+pinkysmart: 84
 steem-bangladesh: 84
-kimpascal: 84
-kesybliss: 81
-benigayvinz: 81
-sawahbukit: 81
-shahjahan420: 81
-javirid: 79
-xiaoguai: 79
-ohssing: 79
-dailystats: 78
-capingbukit: 78
-presh001: 78
-ikechukwu77: 78
-anny01: 78
-z-khan29: 77
-allbert: 76
-flydayhk: 75
-ladangbukit: 75
-jxperience: 75
-ubayiqbal: 75
-roy-bos: 74
-fardiani: 74
-bukitcerah: 74
-bukitpinus: 74
-brianphobos: 74
-bukithijau: 73
-skywaystelios: 73
-pinkysmart: 73
-gopek112: 73
+shahjahan420: 83
+bidyut01: 82
+safridafatih: 82
+nancy-60: 82
+nsiwealth: 81
+ikechukwu77: 80
+franchescaroma: 79
+rabiul365: 79
+favbliz: 79
+matthewguo: 79
+ashik333: 78
+maahiigull: 77
+razzy10: 73
+ilovecoding: 73
+pac-pac: 73
+faruk6090: 71
 khursheedanwar: 71
-nsiwealth: 71
-bettymiki: 71
-akwasheila: 70
-matthewguo: 69
+yanarahma: 70
+peacemike: 69
+pushpabhai: 69
+cplusplus: 69
+cherrylp147: 69
+linna188: 69
 analealsuarez: 69
-joycemarinduque: 69
-ashik333: 68
-favbliz: 68
-maahiigull: 67
-rabiul365: 66
-pac-pac: 64
-ilovecoding: 64
+bodhwa34: 67
+manuelbrhankt: 67
+umar97: 66
+steeemlover: 66
+axgustine: 65
+avle-curator: 65
+steem2trx: 64
+payzol: 64
 brah13: 64
-marvii: 64
 elkaos: 63
-nancy-60: 63
-safridafatih: 62
+melaa2405: 62
+rizalkodrat86: 62
+victoria0408: 62
+ribbly: 62
+levelpower: 62
+hina-imran: 61
+salman-sarim01: 61
+chriddii: 61
 writeup: 61
-cplusplus: 60
-cherrylp147: 60
-bo022022: 60
-linna188: 60
-chriddii: 59
-umar97: 58
-steeemlover: 58
+ajm01: 60
+gracyc: 59
+deksyech: 59
+deboski: 58
+danay: 58
+talhaebubekir: 58
 cutira81: 58
-avle-curator: 57
+celeste413: 57
+idyyleo: 57
+peanut77: 57
+adit02: 56
+ari99: 56
+dimasputra: 56
+winnie1998: 56
+sheya: 56
+ladysong: 56
+godsgift124: 56
 gs-reports: 56
-steem2trx: 56
-payzol: 56
-manuelbrhankt: 56
-ribbly: 54
-levelpower: 54
-faruk6090: 54
-godsgift124: 54
-salman-sarim01: 53
-jayreal: 53
-ajm01: 52
-danay: 51
-deksyech: 51
-talhaebubekir: 51
-gracyc: 51
-bodhwa34: 51
-victoria0408: 51
-peanut77: 50
-celeste413: 50
-idyyleo: 50
-dimasputra: 49
-winnie1998: 49
-sheya: 49
-ladysong: 49
-ari99: 49
-deboski: 49
-pushpabhai: 49
-leosmart: 48
-tenderwise: 48
-israruddin: 47
-yanarahma: 47
-chaimyu: 45
-rizalkodrat86: 45
-monoarc: 44
-wanglizhuifeng: 44
-fotosedjarah: 43
-zhouxiaodong: 43
-lucyho: 43
-steemage: 43
-jorgemartinezya: 43
-fishcc: 42
-aeldra: 42
-mrpenmind: 42
-rizwan-tariq: 42
-vivianita: 42
-steem15: 42
-xiaohuangniu: 42
-the.experimenter: 42
-goodnews2020: 42
-dolcecabanas: 41
-nolodigas101: 41
-numpypython: 40
-roza321: 40
-franchescaroma: 40
-reply-revolution: 39
-muksin12: 39
-rimon03: 38
-nhicexchange: 38
-heavydee: 38
-hightouch: 38
-ebrahim2021: 37
-shadow-warrior: 37
-tiamaria: 37
-fishdd: 36
-officialcollins: 36
-ohons: 36
-azmat545: 35
-jannat0499: 35
-twowt: 35
-luciferjin.uvu: 35
-md-rayyan: 35
-syjy3853: 35
-prettypeace: 35
-kobir19: 35
-raulimar: 35
-razzy10: 35
-hina-imran: 35
-oscardavid79: 34
-hridoy777: 34
-adit02: 34
-blessedp: 33
-habib666: 33
-prince30: 33
-ashirabdullah: 33
-classical.music: 31
-axgustine: 31
-dilesha: 30
-akail5050: 30
-favourite01: 30
-husnaunaa: 30
-chiglamour002: 30
-allen.silva: 29
-mukka: 29
-marquis.jin: 29
-eondas: 29
-mohdzaid: 29
-steem2eth: 29
-sophma12: 29
-knaus: 29
-rentsp: 29
-tremaria: 28
-trendhk: 28
-satriotomo: 28
-snailsong: 28
-riskirahmatullah: 28
-dodamdodam: 28
-pharm.park: 28
-saim10: 28
-dailyfortune: 28
-imranahmed5298: 28
-geekwho: 28
-sm-shagor: 28
-dulip: 28
-shanto111: 28
-fix-it-lab: 28
-ladiblessing689: 28
-juan1912: 28
-der-prophet: 28
-emon19: 28
-peacemike: 28
-sajidul: 27
-saviour-moses: 27
-fav1118: 27
-deadpool89: 27
-sarosh-akbar58: 27
-achicha: 27
-xiaomalailiao: 26
-shakilbro: 26
-camkogya: 25
-ryan-lai: 25
-afrkhan: 25
-bhawna1: 25
-cris03: 24
-lency66: 24
-gullsonia: 24
-freddypina: 24
-steem2sui: 24
+heyitsmuna: 55
+etteobongubom: 55
+favourite01: 55
+leosmart: 55
+husnaunaa: 53
+muksin12: 53
+chaimyu: 52
+sumon48: 51
+nolodigas101: 51
+monoarc: 51
+wanglizhuifeng: 51
+dolcecabanas: 49
+fotosedjarah: 49
+steemage: 49
+zhouxiaodong: 49
+jorgemartinezya: 49
+lucyho: 49
+israruddin: 49
+chairunnisa21: 48
+sanaullah1: 48
+shakilbro: 48
+the.experimenter: 48
+fishcc: 48
+aeldra: 48
+xiaohuangniu: 48
+mrpenmind: 48
+rizwan-tariq: 48
+vivianita: 48
+steem15: 48
+murse-danie77: 46
+tiamaria: 46
+rimon03: 46
+numpypython: 46
+roza321: 46
+ebrahim2021: 45
+shadow-warrior: 45
+reply-revolution: 45
+heavydee: 44
+hightouch: 44
+nhicexchange: 44
+masterdc: 43
+sarosh-akbar58: 43
+ashirabdullah: 43
+hridoy777: 43
+jannat0499: 42
+azmat545: 42
+achicha: 41
+oscardavid79: 41
+officialcollins: 41
+ohons: 41
+fishdd: 41
+mydoctor: 40
+twowt: 40
+syjy3853: 40
+prettypeace: 40
+kobir19: 40
+luciferjin.uvu: 40
+md-rayyan: 40
+raulimar: 40
+thhridoy: 39
+blessedp: 38
+prince30: 38
+habib666: 38
+nenyesco: 37
+rema-khan: 37
+emon19: 36
+classical.music: 36
+deadpool89: 35
+akail5050: 35
+dilesha: 34
+favewrites: 33
+fav1118: 33
+allen.silva: 33
+mukka: 33
+marquis.jin: 33
+mohdzaid: 33
+steem2eth: 33
+eondas: 33
+rentsp: 33
+sophma12: 33
+knaus: 33
+calculuseyo1: 32
+sagorbro: 32
+tremaria: 32
+trendhk: 32
+satriotomo: 32
+snailsong: 32
+riskirahmatullah: 32
+dodamdodam: 32
+pharm.park: 32
+shanto111: 32
+saim10: 32
+dailyfortune: 32
+imranahmed5298: 32
+geekwho: 32
+sm-shagor: 32
+dulip: 32
+fix-it-lab: 32
+ladiblessing689: 32
+juan1912: 32
+der-prophet: 32
+justsoso: 30
+afrkhan: 30
+xiaomalailiao: 30
+camkogya: 29
+ryan-lai: 29
+sajidul: 29
+cris03: 28
+lency66: 28
+steem2sui: 28
+gullsonia: 28
+freddypina: 28
+saviour-moses: 28
+asif-islam: 27
+rachelyssa: 27
+kailac: 27
+charybabe: 27
+camurq: 26
+inspire1: 26
+ridoy86: 26
+pearlfavy: 26
+fedi04: 25
+fishaa: 25
+petak: 25
+rose1234: 25
+kahkashan: 25
+wintry: 25
+law-obi: 25
+namocomfort: 25
+iqra-mughal: 25
+kenneth00: 25
+madiha01: 24
+techsoulai: 24
+rahmat31: 24
+offixical: 24
+wealthguider: 24
+elenacorban999: 24
+rasma: 24
+rajib765: 24
+wulff-media: 24
+jaster: 24
+waterzeong: 24
+kingcoc: 24
+india-news: 24
+gabbynhice: 24
+rhosadah: 24
+steemfuckeos: 24
+plato2005: 24
+iu1314: 24
+qianlinghan: 24
+ruqaiyah: 24
+steem2sol: 24
+steempr-account: 24
+dotwin1981: 24
+forever-crypto: 24
+iqraaziz: 24
+antoniarhuiz: 24
+oppovote: 24
+geekpranee: 24
+awind: 24
+freiheit50: 24
 moogly: 24
-sagorbro: 24
-sanaullah1: 24
-etteobongubom: 24
-inspire1: 23
-ridoy86: 23
-charybabe: 23
-pearlfavy: 23
-calculuseyo1: 23
-favewrites: 23
-fishaa: 22
-petak: 22
-rose1234: 22
-kahkashan: 22
-wintry: 22
-law-obi: 22
-namocomfort: 22
-iqra-mughal: 22
-kenneth00: 22
+nspidoz: 23
+zubbymich: 23
+lisaa: 23
+sarakomuva: 23
+pushpika: 23
+tonmoy2002: 23
+bravaii: 23
+jenmaher78: 21
+vivianchy: 21
+rmbn: 21
 krwine: 21
-waterzeong: 21
-kingcoc: 21
-india-news: 21
-gabbynhice: 21
-elenacorban999: 21
-steemfuckeos: 21
-rasma: 21
-plato2005: 21
-iu1314: 21
-ruqaiyah: 21
-rajib765: 21
-steem2sol: 21
-steempr-account: 21
-forever-crypto: 21
-wulff-media: 21
-jaster: 21
-antoniarhuiz: 21
-oppovote: 21
-rhosadah: 21
-geekpranee: 21
-qianlinghan: 21
-awind: 21
-freiheit50: 21
-dotwin1981: 21
-iqraaziz: 21
-kailac: 21
-fedi04: 21
-rahmat31: 20
-techsoulai: 20
-lisaa: 20
-sarakomuva: 20
-pushpika: 20
-tonmoy2002: 20
-bravaii: 20
-zubbymich: 20
-offixical: 20
-wealthguider: 20
-mydoctor: 19
-murse-danie77: 19
+asadullahdurrani: 20
+shynella: 20
+tahomina29: 20
+siffyseafood: 20
+storytan: 20
+rakhib: 20
+mygri: 20
+haime: 20
+my-store: 20
+gracioustime: 20
+sana-akhtar: 19
+pat-enterprise: 19
+peacefulpeace101: 19
+bloggerboy: 19
+ay-mart: 19
+zhengkai: 19
+daily-knol: 19
+awitness: 19
+redarrow: 19
+coco2025: 18
+dheoracle: 18
+daysfromlife: 18
+emerson-25: 18
+mariacordoba: 18
+binimgarten: 18
+jonnchima: 18
+snehash73: 18
+favrite: 18
+diahymond: 18
+merceem: 18
+amanatacca2020: 18
 thecoin-tripler: 18
-rmbn: 18
-vivianchy: 18
-gracioustime: 18
-madiha01: 18
-rachelyssa: 18
-rakhib: 17
-mygri: 17
-haime: 17
-my-store: 17
-zhengkai: 16
-daily-knol: 16
-justsoso: 16
+kerlymera: 17
+templar.pool: 17
+arfa07: 17
+redpanda787: 17
+zaitunhafni: 17
+nitro.speeder: 17
+bate: 17
+victoria-bella: 17
+brokeneye: 17
+ayjoe: 17
+nandamasna: 17
+mariku: 17
+crypto-caller: 17
+tami45: 17
+raiyan02: 17
+likeabossxx: 17
+ken.arok: 17
+tuhin4704: 17
+we-together: 17
+caro-art: 17
+healthrepublic: 17
+mboutidem200: 16
+f9025glow: 16
+abdullah-khan: 16
+zekanem: 16
+freepressturkey: 16
+miftahuddin: 16
+otom: 16
+berdian: 16
+karlin: 16
+ewq: 16
+umaruma: 16
+pet.society: 16
+gojen.gepsol: 16
+md-raju: 16
+vision-of-esca: 16
+ariful1998: 16
+alwayslive: 16
+agungromadzon: 16
+www123: 16
+aywa: 16
+dodamdodambooks: 16
+duet1: 16
+do-or-die: 16
+maoyos: 16
+nirjon119: 16
+estybest: 16
+erpirio: 16
+caydenshan: 16
+fifapresido: 16
+makhzar: 16
+green07: 16
+wahyunahrul: 16
+norwegiansteem: 16
+debirs: 16
+gi2nee: 16
+docker: 16
+world-trip: 16
+bitcoingodmode: 16
+powerade: 16
+bananaxx: 16
+ns-porosh: 16
+roopk97: 16
+seoulblader: 16
+grateful-life: 16
+citylights: 16
+rafiraj: 16
+mukiii: 16
+alert78: 16
+stats-steem: 16
+serenity1: 16
+ramla-khan: 16
+yungblood: 16
+dilcia: 16
+anka23: 16
+hasenmann: 16
+vectorshore: 16
+marijeg: 16
 rokonn: 16
-awitness: 16
-amanatacca2020: 16
-redarrow: 16
-storytan: 16
+oksamyt: 15
+tamimsobuj4: 15
+himbei: 15
+juwelrana1: 15
+alipase: 15
+lixing: 15
+emadani: 15
+rgkmb: 15
 tsurayya: 15
-snehash73: 15
-jonnchima: 15
-favrite: 15
-kerlymera: 15
-templar.pool: 15
-arfa07: 15
-redpanda787: 15
-zaitunhafni: 15
-nitro.speeder: 15
-bate: 15
-victoria-bella: 15
-brokeneye: 15
-ayjoe: 15
-nandamasna: 15
-mariku: 15
-crypto-caller: 15
-tami45: 15
-raiyan02: 15
-likeabossxx: 15
-ken.arok: 15
-diahymond: 15
-we-together: 15
-merceem: 15
-caro-art: 15
-healthrepublic: 15
-tuhin4704: 15
-tahomina29: 15
-siffyseafood: 15
+tacy225: 14
+yhuteeekanem: 14
+steem.fantasy: 14
+rishabh99946: 14
 alives: 14
 labuj: 14
 auc: 14
@@ -1198,207 +1301,164 @@ sjkorea: 14
 merlinz: 14
 timehigh: 14
 zevia: 14
-zekanem: 14
-freepressturkey: 14
-miftahuddin: 14
-otom: 14
-berdian: 14
-umaruma: 14
-pet.society: 14
-gojen.gepsol: 14
-md-raju: 14
-vision-of-esca: 14
-ariful1998: 14
-alwayslive: 14
-agungromadzon: 14
-www123: 14
-aywa: 14
-dodamdodambooks: 14
-maoyos: 14
-nirjon119: 14
-caydenshan: 14
-fifapresido: 14
-makhzar: 14
-green07: 14
-wahyunahrul: 14
-norwegiansteem: 14
-debirs: 14
-karlin: 14
-ewq: 14
-gi2nee: 14
-docker: 14
-world-trip: 14
-bitcoingodmode: 14
-powerade: 14
-bananaxx: 14
-ns-porosh: 14
-roopk97: 14
-seoulblader: 14
-grateful-life: 14
-duet1: 14
-citylights: 14
-do-or-die: 14
-rafiraj: 14
-mukiii: 14
-alert78: 14
-stats-steem: 14
-serenity1: 14
-ramla-khan: 14
-yungblood: 14
-estybest: 14
-dilcia: 14
-erpirio: 14
-anka23: 14
-hasenmann: 14
-vectorshore: 14
-marijeg: 14
-rishabh99946: 14
-alipase: 13
+andrea51: 13
+arella1: 13
+wawata: 13
+danish578: 13
+justyy222: 13
 kuzuma: 13
-lixing: 13
-emadani: 13
-rgkmb: 13
-himbei: 13
-juwelrana1: 13
+sajeela: 12
+economist2027: 12
+mahaaa: 12
+ekplineus: 12
+marielismq: 12
+razuahmed: 12
+asadul-islam: 12
+mrtraveler9: 12
+rahmadi: 12
+dark.knight: 12
+ashish7: 12
 razzor: 12
 meryju79: 12
 maxub: 12
-steem.fantasy: 12
 ibnaella99: 12
-abdullah-khan: 12
-justyy222: 11
-asadullahdurrani: 11
-shynella: 11
+sshal-safi: 11
+htontu: 11
+dprof: 11
+chrisjack: 11
+douglasyukanov: 11
+hattaarshavin: 11
+romaisakhan: 10
 maliha24: 10
-razuahmed: 10
-danish578: 10
-asadul-islam: 10
-mrtraveler9: 10
-hattaarshavin: 10
-rahmadi: 10
-dark.knight: 10
-ashish7: 10
-marielismq: 10
-arella1: 10
-wawata: 10
-masterdc: 10
-binimgarten: 10
+ijeoma44: 9
+danchis: 9
+zaynadreams: 9
+smithcash01: 9
+shalib: 9
+alyjay: 9
+lolite: 9
+villageman: 9
+new-accounts: 9
+razu788: 9
+nickxu: 9
+rakha00: 9
+rgkmb-unofficial: 9
 florencep: 9
-douglasyukanov: 9
-chrisjack: 9
-mahaaa: 9
-f9025glow: 9
-ekplineus: 9
-andrea51: 9
-yhuteeekanem: 9
-rema-khan: 9
+digitalworlds: 8
+goodnews28: 8
+cashly: 8
+blessed2008: 8
+steem-echo: 8
+jenobepa: 8
+josueelinfame: 8
+kimxinfo: 8
+yungend: 8
+dedekpase: 8
+yang543611595: 8
+lulu121: 8
+rikue: 8
+linur: 8
+news-leo: 8
+steem2bts: 8
+badli12: 8
+sammyfresh: 8
+putrisavara: 8
+faltermann: 8
+ronindboss: 8
+trollsoccer: 8
+themovie: 8
+rauzatuljannah12: 8
+steemprice2: 8
+haroon786: 8
+mehvishfatima: 8
+mxz: 8
+abun56: 8
 alol: 8
-lolite: 8
-villageman: 8
 paul-smith55: 8
-razu788: 8
-nickxu: 8
-new-accounts: 8
-rakha00: 8
-rgkmb-unofficial: 8
-ay-mart: 8
-mariacordoba: 8
-mboutidem200: 8
-jenobepa: 7
-josueelinfame: 7
-kimxinfo: 7
-yungend: 7
-yang543611595: 7
-lulu121: 7
-rikue: 7
-linur: 7
-news-leo: 7
-steem2bts: 7
-badli12: 7
-sammyfresh: 7
-faltermann: 7
-ronindboss: 7
-trollsoccer: 7
-dedekpase: 7
-themovie: 7
-rauzatuljannah12: 7
-steemprice2: 7
-haroon786: 7
-mehvishfatima: 7
-mxz: 7
-abun56: 7
-putrisavara: 7
+abigail123: 7
+emma-uttermost: 7
+bigemy: 7
+ghazal-safi: 7
+idopise100: 7
+lugadiba: 7
+gigino: 7
+ajosefina: 7
+steemitnatural: 7
+marshallmustang: 7
+biema: 7
+ftr: 7
+minvestor: 7
+googlecareers: 7
+ransylove: 7
+roseofmylife: 7
+lachicarebelde: 7
+iebalgamge: 7
+laksamana-muda: 7
+imrical: 7
+siria: 7
+smilee30: 7
 destinydreamer: 7
-alyjay: 7
-emerson-25: 7
-khunxbt.tagai: 6
-ajosefina: 6
-steemitnatural: 6
-marshallmustang: 6
+sebastian88: 6
+itsnadavie: 6
+imaken: 6
+glosunz: 6
+idris643: 6
+alevina121: 6
+mdriart: 6
+an-mira: 6
 zeushispania: 6
-biema: 6
-ftr: 6
-minvestor: 6
-googlecareers: 6
-ransylove: 6
-roseofmylife: 6
-lachicarebelde: 6
-iebalgamge: 6
-laksamana-muda: 6
-imrical: 6
-siria: 6
-smilee30: 6
-gigino: 6
-lugadiba: 6
-blessed2008: 6
-steem-echo: 6
+khunxbt.tagai: 6
 rvaldi: 6
-cashly: 6
-smithcash01: 6
-shalib: 6
-economist2027: 6
+glodick: 5
+davidessien: 5
+akpanudo: 5
+ubonginyang: 5
+datastat: 5
+usman32: 5
+eshaaa111: 5
+allying: 5
 leafoflife: 5
-mdriart: 5
-an-mira: 5
-camurq: 5
-alevina121: 5
+nimesh46157: 5
 shujat-khan: 5
-bloggerboy: 5
-zaynadreams: 5
-idopise100: 5
+kelly420: 4
+adaezebern19: 4
+gloriaho: 4
+abo.pro: 4
+cornelius01: 4
+steem-store: 4
+attaurrahman: 4
 tiket: 4
-allying: 4
-nimesh46157: 4
-usman32: 4
-eshaaa111: 4
 maxiss: 4
-daysfromlife: 4
-idris643: 4
+jowakkie: 3
+kenz007: 3
+gabiboss: 3
+mominashahkir: 3
+harrylion: 3
+grayson-01: 3
+ipakmentari: 3
+florencex: 3
+hive-122334: 3
+morningcare: 3
 azad45: 3
-steem-store: 3
-attaurrahman: 3
-abo.pro: 3
-gloriaho: 3
-cornelius01: 3
-ubonginyang: 3
-nspidoz: 3
-datastat: 3
+rizalpratama: 2
+delvvyitsmyy: 2
+yalexis22: 2
+nargisakhtar: 2
+jayboi2121: 2
 blockchainhorror: 2
 fractallover: 2
 soydiegorojas: 2
 dreeyor: 2
-hive-122334: 2
-morningcare: 2
 utitofon: 2
-gabiboss: 2
-adaezebern19: 2
-ghazal-safi: 2
-mominashahkir: 2
-harrylion: 2
-grayson-01: 2
-ipakmentari: 2
-akpanudo: 2
-florencex: 2
+a-abrar: 1
+joshua7: 1
+suniyapena: 1
+maryjoy55: 1
+blissful001: 1
+gloryasu: 1
+elisene: 1
+pabomunis: 1
+michelle1111: 1
 elmetro.drugwars: 1
 e73062300: 1
 nadilchairi: 1
@@ -1427,27 +1487,44 @@ barnasco: 1
 s4yj: 1
 swanradiovibe: 1
 hamptoncourt: 1
+kazimehbub: 1
 linitaroz: 1
 eddypraise: 1
 rafan20: 1
 darwesh-khan: 1
+jaweriazafar: 1
 ibrahim303: 1
 kellysmith4: 1
+deranmi: 1
+abiedsadjid: 1
+shahfaisal: 1
+wepano: 1
 juanf191: 1
 seo-boss: 1
 abdullah8: 1
 buildteam: 1
 habib3311: 1
-deranmi: 1
-abiedsadjid: 1
-kazimehbub: 1
-shahfaisal: 1
-bigemy: 1
-kenz007: 1
 chee1: 0
+purisal: 0
+ambestcurate: 0
+ziponi: 0
+masolavenis: 0
+dicota: 0
+doctormed: 0
+gotik: 0
+maturimushin: 0
+toriraa6: 0
+yakubu-aa: 0
 adollaraday: 0
 dani0661: 0
+armel12345: 0
 attemptearth: 0
+bratiana: 0
+crystal78: 0
+ikbal212: 0
+shohag9800: 0
+users.dunamu: 0
+controllinghand: 0
 wealthmary: 0
 steemadvicer: 0
 newskr: 0
@@ -1504,9 +1581,7 @@ umx: 0
 softcancer: 0
 esaiaseyo: 0
 innerman: 0
-glodick: 0
 bennyblack: 0
-joshua7: 0
 traxxx: 0
 lukkie2: 0
 faheem-ihsan: 0
@@ -1514,8 +1589,29 @@ atalyousafzai: 0
 kinglekara: 0
 kuhyeek: 0
 tbadero25: 0
+tabbydy: 0
 jemmystyles17: 0
 blezdo12: 0
+gentlepee: 0
+abdulrahman.ali: 0
+api.steemit.com: 0
+uzmashaheen: 0
+perkysam: 0
+aliexplores: 0
+gistwithgoody: 0
+sammy75: 0
+steemblazer: 0
+nusratzahra: 0
+cipherchain: 0
+fc358: 0
+m-abid: 0
+lalit06: 0
+virtuousc: 0
+wisesimon15: 0
+ruthyjay: 0
+tobi8119: 0
+matachinaza: 0
+kodriso428: 0
 moecki.tests: 0
 weekly7: 0
 jacklab1407: 0
@@ -1523,32 +1619,6 @@ steemworld.org: 0
 sammylinks: 0
 borisjimenez: 0
 zeebhutta: 0
+icymi: 0
 boya1: 0
 rajaachenes: 0
-purisal: 0
-armel12345: 0
-tabbydy: 0
-abdulrahman.ali: 0
-crystal78: 0
-users.dunamu: 0
-uzmashaheen: 0
-perkysam: 0
-aliexplores: 0
-gistwithgoody: 0
-sammy75: 0
-nusratzahra: 0
-cipherchain: 0
-fc358: 0
-steemblazer: 0
-ambestcurate: 0
-controllinghand: 0
-gentlepee: 0
-m-abid: 0
-lalit06: 0
-icymi: 0
-bratiana: 0
-api.steemit.com: 0
-virtuousc: 0
-romaisakhan: 0
-wisesimon15: 0
-freshgrace: 0
