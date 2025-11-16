@@ -31,12 +31,15 @@ function calculateTotalTokens() {
     const sortedAccounts = Array.from(accountTotals.entries())
         .sort((a, b) => b[1] - a[1]);
 
+    const totalTokens = sortedAccounts.reduce((sum, [, tokens]) => sum + tokens, 0);
+
     const output = sortedAccounts
         .map(([account, tokens]) => `${account}: ${tokens.toLocaleString()}`)
         .join('\n');
 
     fs.writeFileSync('total_tokens.txt', output);
     console.log('Results written to total_tokens.txt');
+    console.log(`Total tokens across all accounts: ${totalTokens.toLocaleString()}`);
 }
 
 calculateTotalTokens(); 
